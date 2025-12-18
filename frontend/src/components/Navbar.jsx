@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import { ShoppingBag, Menu, X } from 'lucide-react';
 import { useState } from 'react';
-
+//
 const Navbar = () => {
     const [isOpen, setIsOpen] = useState(false);
 
